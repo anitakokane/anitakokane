@@ -12,8 +12,5 @@ I’m a B.Tech student passionate about Data Science and turning raw numbers int
 ![](https://nirzak-streak-stats.vercel.app/?user=anitakokane&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anitakokane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anitakokane&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
